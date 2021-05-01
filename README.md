@@ -1,5 +1,6 @@
 # React COVID Tracker
-
+## check out project
+https://react-covid-tracker-4334a.web.app/
 ### `npm start`
 
 Runs the app in the development mode.<br />
