@@ -2,7 +2,7 @@
 ## check out project
 https://react-covid-tracker-4334a.web.app/
 
-![image](https://user-images.githubusercontent.com/25037844/116804867-ecdb0c80-ab3f-11eb-940b-3fffd0735b48.png)
+![image](https://user-images.githubusercontent.com/25037844/116804875-054b2700-ab40-11eb-9d63-a9d2d89ab1e6.png)
 
 
 ### `npm start`
