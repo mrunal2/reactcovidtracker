@@ -1,6 +1,10 @@
 # React COVID Tracker
 ## check out project
 https://react-covid-tracker-4334a.web.app/
+
+![image](https://user-images.githubusercontent.com/25037844/116804867-ecdb0c80-ab3f-11eb-940b-3fffd0735b48.png)
+
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
